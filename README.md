@@ -4,7 +4,7 @@
 
 MetaMCP is the unified middleware MCP to manage all your MCPs. It uses a GUI fullstack app (this repo) and a local MCP proxy to achieve this. (see our latest npm repo [mcp-server-metamcp](https://github.com/metatool-ai/mcp-server-metamcp))
 
-A few feature highlights:
+A few feature highlights: 
 
 - GUI app to manage multiple MCP server integrations all together.
 - Support ANY MCP clients (e.g., Claude Desktop, Cursor, etc.) because MetaMCP is a MCP server.
