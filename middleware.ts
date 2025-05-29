@@ -1,5 +1,5 @@
-import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
+import { NextResponse } from 'next/server';
 
 // This middleware enforces authentication for all routes except /login, api, and static assets.
 // It assumes that a valid Supabase session token is stored in a cookie named "sb:token".

@@ -45,9 +45,9 @@ import {
 import { useCodes } from '@/hooks/use-codes';
 import { useToast } from '@/hooks/use-toast';
 
+import LogoutButton from './LogoutButton';
 import { ProfileSwitcher } from './profile-switcher';
 import { ProjectSwitcher } from './project-switcher';
-import LogoutButton from './LogoutButton';
 
 export default function SidebarLayout({
   children,
