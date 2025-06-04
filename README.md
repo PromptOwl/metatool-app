@@ -1,4 +1,4 @@
-# MetaMCP (Unified middleware MCP to manage all your MCPs) 
+# MetaMCP (Unified middleware MCP to manage all your MCPs)
 
 [![](https://dcbadge.limes.pink/api/server/mNsyat7mFX)](https://discord.gg/mNsyat7mFX)
 
